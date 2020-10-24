@@ -1,0 +1,56 @@
+body {
+  font-size: 16px;
+  margin: 0;
+}
+
+span {
+  background-color: azure;
+}
+
+.header {
+  background-color: aqua;
+  height: 888px;
+  padding: 0 0 100px 0;
+}
+
+.nav {
+  background-color: coral;
+  height: 66,813px;
+  padding: 52px 0 52px 0;
+}
+
+.hero-slider {
+  height: 100%;
+}
+
+.news {
+  background-color: crimson;
+  height: 468px;
+  padding: 70px 0 50px 0;
+}
+
+.teams {
+  height: 438px;
+  padding: 68px 0 108px 0;
+  border-top: 1px solid;
+  background-color: #0B0B11;
+}
+
+.streams {
+  height: 464px;
+  padding: 68px 0 50px 0;
+  border-top: 1px solid;
+  background-color: cadetblue;
+}
+
+.tournaments {
+  height: 772px;
+  padding: 68px 0;
+  background-color: darkcyan;
+}
+
+.matches {
+  height: 909px;
+  padding: 84px 0 60px 0;
+  background-color: chartreuse;
+}
